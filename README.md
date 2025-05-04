@@ -148,8 +148,8 @@ This project is licensed under the **MIT License** && **Group13** [2025 Spring].
 For questions or feedback, reach out to **Group 13** at:
 
 - hsamanth@kent.edu
-- psree@kent.edu
-- sana@kent.edu
-- vponnganti@kent.edu
-- rpolavarapu@kent.edu
-- rishik@kent.edu
+- ppottipa@kent.edu
+- sgadda12@kent.edu
+- vponnaga@kent.edu
+- rpolavar@kent.edu
+- rpendurt@kent.edu
